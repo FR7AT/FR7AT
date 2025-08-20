@@ -12,7 +12,7 @@ I love to explore more and learn interesting things on the internet.
     <a href="mailto:farhathosaath3@gmail.com" target="_blank">
         <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="50" height="50" />
     </a>
-    <a href="https://t.me/FR7AT1" target="_blank">
+    <a href="https://t.me/fr7atvip" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="50" height="50" />
     </a>
 </p>
