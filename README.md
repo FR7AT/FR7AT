@@ -20,11 +20,6 @@
   </p>
 
   ---
-  
-  ### 📅 **Activity Snapshot**
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FR7AT&theme=tokyonight" width="100%" alt="Timeline" />
-
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
