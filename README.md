@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Software%20Developer&fontSize=70&fontAlignY=40&desc=Modern%20Solutions%20%7C%20Clean%20Code&descAlignY=60&descSize=20&animation=fadeIn" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Developer&fontSize=70&fontAlignY=40&desc=FARHAT&descAlignY=60&descSize=20&animation=fadeIn" width="100%" alt="Header" />
 </div>
 
 <div align="center">
 
-  ### ⚡ **Professional Software Engineer**
+  ### ⚡ **Developer**
   
   <p>
     Focused on creating high-performance applications and maintaining clean, scalable codebases.<br>
@@ -16,7 +16,7 @@
   ### 🛠️ **Technical Arsenal**
 
   <p>
-    <img src="https://skillicons.dev/icons?i=python,cs,cpp,javascript,nodejs,mysql,linux,docker,vscode,photoshop,cloudflare&theme=dark" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=python,cs,cpp,javascript,nodejs,mysql,linux,vscode,photoshop,cloudflare&theme=dark" alt="Skills" />
   </p>
 
   ---
