@@ -15,9 +15,7 @@
   
   ### 🛠️ **Technical Arsenal**
 
-  <p>
-    <img src="https://skillicons.dev/icons?i=python,cs,cpp,javascript,nodejs,mysql,linux,vscode,photoshop,cloudflare&theme=dark" alt="Skills" />
-  </p>
+<p> <img src="https://skillicons.dev/icons?i=python,cs,cpp,javascript,nodejs,mysql,linux,docker,vscode,photoshop,cloudflare&theme=dark" alt="Skills" /> </p>
 
   ---
   <br>
